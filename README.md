@@ -10,7 +10,7 @@ Here's my stack:
 - SQL✨
 - Html ✨
 - CSS✨
-Framework :
+- Framework :
 - Django 
 - Kivy
 - Unity 3D 
