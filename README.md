@@ -7,12 +7,12 @@ I'm really passionate about web3 and more deeply about the immersive experience 
 Here's my stack: 
 - Python 🐍
 - C# ✨
--SQL✨
--Html ✨
--CSS✨
-Framework : 
--Django 
--Kivy
+- SQL✨
+- Html ✨
+- CSS✨
+Framework :
+- Django 
+- Kivy
 - Unity 3D 
 
 
