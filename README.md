@@ -1,15 +1,18 @@
 ### Hi there 👋
 
+After 9 years managing restaurants in Paris. 
+Always passionate about technology, I decided to found my own mobile game studio and more recently reconverted to software development 🧑‍💻
+I'm really passionate about web3 and more deeply about the immersive experience via the "metaverse" and everything that goes with it.
 
-**warrox/warrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's my stack: 
+- Python 🐍
+- C# ✨
+-SQL✨
+-Html ✨
+-CSS✨
+Framework : 
+-Django 
+-Kivy
+- Unity 3D 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
