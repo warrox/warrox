@@ -14,7 +14,8 @@ Here's my stack:
 - CSS✨
 - Framework :
 - React
-- Django 
+- Node
+- Three.js
 - Unity 3D 
 
 
