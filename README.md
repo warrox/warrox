@@ -14,10 +14,6 @@ Here's my stack:
 - SQL✨
 - Html ✨
 - CSS✨
-- Framework :
-- React
-- Node
-- Three.js
 - Unity 3D 
 
 
