@@ -7,6 +7,7 @@ I'm really passionate about web3 and more deeply about the immersive experience 
 My team and I build a fun games called 66Demons, have a look 👁 > https://play.google.com/store/apps/details?id=com.GuyBuyDie.SixSixecsDemons&hl=fr&gl=US
 
 Here's my stack: 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - JavaScript ✨
 - Python 🐍
 - C# ✨
