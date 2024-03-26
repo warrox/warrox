@@ -15,7 +15,7 @@ Always passionate about technology, I decided to found my own mobile game studio
 <br><br>
 <hr width="40%> 
 🎓 i'm also a proud student at 42 Paris, here is my progress :  
-<hr width="40%>   
+<hr width="40%> 
 <br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/whamdi?1337Badge=off&UM6P=off" alt="whamdi's 42 stats" /></a>
 <br>
