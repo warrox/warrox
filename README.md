@@ -1,7 +1,7 @@
 ### Hi there <IMG SRC="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="40px" height="40px">
 
 After 9 years of managing restaurants in Paris, and always being passionate about technology, I decided to found my own mobile game studio. More recently, I've reconverted to software development 🧑‍💻.
-
+I'm really passionate about Web3 and, more deeply, about the immersive experience via the "metaverse" and everything that goes with it.
 ---
 
 #### 🧑‍💻 Tech Stack:
@@ -17,5 +17,3 @@ I'm also a proud student at 42 Paris. <br> Here is my progress: <br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/whamdi?1337Badge=off&UM6P=off" alt="whamdi's 42 stats" /></a>
 
 ---
-
-I'm really passionate about Web3 and, more deeply, about the immersive experience via the "metaverse" and everything that goes with it.
