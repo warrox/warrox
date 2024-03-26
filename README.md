@@ -18,6 +18,5 @@ I'm really passionate about web3 and more deeply about the immersive experience 
 My team and I build a fun games called 66Demons : <br>
 <img src="https://play-lh.googleusercontent.com/a9fOlP-UXKO9iEYSbmD5Io4ffhzCfceTc3T9q36-WuMrozqbgwuEd06irws8OewYVA=w5120-h2880-rw" 
      width="400" 
-     height="500" />
+     height="400" />
 
-[![](https://visitcount.itsvg.in/api?id=warrox&label=&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
