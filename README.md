@@ -13,7 +13,7 @@ After 9 years of managing restaurants in Paris, and always being passionate abou
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 #### 🎓 Education:
-I'm also a proud student at 42 Paris. Here is my progress:
+I'm also a proud student at 42 Paris. Here is my progress: <br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/whamdi?1337Badge=off&UM6P=off" alt="whamdi's 42 stats" /></a>
 
 ---
