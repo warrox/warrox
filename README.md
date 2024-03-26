@@ -6,7 +6,11 @@ I recenlty join as a stud école 42 to increase my skills.
 
 I'm really passionate about web3 and more deeply about the immersive experience via the "metaverse" and everything that goes with it.
 My team and I build a fun games called 66Demons : <br>
-![66](https://play-lh.googleusercontent.com/a9fOlP-UXKO9iEYSbmD5Io4ffhzCfceTc3T9q36-WuMrozqbgwuEd06irws8OewYVA=w5120-h2880-rw)
+
+<img src="https://play-lh.googleusercontent.com/a9fOlP-UXKO9iEYSbmD5Io4ffhzCfceTc3T9q36-WuMrozqbgwuEd06irws8OewYVA=w5120-h2880-rw" 
+     width="400" 
+     height="500" />
+
 
 
 Here's my stack: <br><br>
