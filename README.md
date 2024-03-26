@@ -2,7 +2,7 @@
 <h4> After 9 years of managing restaurants in Paris, and always being passionate about technology, I decided to found my own mobile game studio. More recently, I've reconverted to software development 🧑‍💻.
 I'm really passionate about Web3 and, more deeply, about the immersive experience via the "metaverse" and everything that goes with it.</h2>
 
---
+<
 
 ### 🧑‍💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
