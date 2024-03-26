@@ -1,4 +1,4 @@
-### Hi there <IMG SRC="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30%" height="30%">
+### Hi there <IMG SRC="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="10px" height="10px">
 
 After 9 years of managing restaurants in Paris, and always being passionate about technology, I decided to found my own mobile game studio. More recently, I've reconverted to software development 🧑‍💻.
 
