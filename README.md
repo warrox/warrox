@@ -15,8 +15,4 @@ i'm also a proud student at 42 Paris, here is my progress :<br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/whamdi?1337Badge=off&UM6P=off" alt="whamdi's 42 stats" /></a>
 <br>
 I'm really passionate about web3 and more deeply about the immersive experience via the "metaverse" and everything that goes with it.
-My team and I build a fun games called 66Demons : <br>
-<img src="https://play-lh.googleusercontent.com/a9fOlP-UXKO9iEYSbmD5Io4ffhzCfceTc3T9q36-WuMrozqbgwuEd06irws8OewYVA=w5120-h2880-rw" 
-     width="400" 
-     height="400" />
 
