@@ -4,7 +4,7 @@ After 9 years of managing restaurants in Paris, and always being passionate abou
 I'm really passionate about Web3 and, more deeply, about the immersive experience via the "metaverse" and everything that goes with it.
 ---
 
-#### 🧑‍💻 Tech Stack:
+### 🧑‍💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,8 +12,8 @@ I'm really passionate about Web3 and, more deeply, about the immersive experienc
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-#### 🎓 Education:
-I'm also a proud student at 42 Paris.<br> <br>
+### 🎓 Education:
+### I'm also a proud student at 42 Paris.<br> <br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/whamdi?1337Badge=off&UM6P=off" alt="whamdi's 42 stats" /></a>
 
 ---
