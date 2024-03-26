@@ -1,6 +1,6 @@
 ### Hi there <IMG SRC="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="40px" height="40px">
 
-#After 9 years of managing restaurants in Paris, and always being passionate about technology, I decided to found my own mobile game studio. More recently, I've reconverted to software development 🧑‍💻.
+# After 9 years of managing restaurants in Paris, and always being passionate about technology, I decided to found my own mobile game studio. More recently, I've reconverted to software development 🧑‍💻.
 I'm really passionate about Web3 and, more deeply, about the immersive experience via the "metaverse" and everything that goes with it.
 ---
 
