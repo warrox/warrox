@@ -4,6 +4,8 @@ After 9 years managing restaurants in Paris,
 Always passionate about technology, I decided to found my own mobile game studio and more recently reconverted to software development 🧑‍💻
 <hr>
 🧑‍💻 Here's my stack:
+<hr width="12%> 
+  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
